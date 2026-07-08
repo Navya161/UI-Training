@@ -1,0 +1,24 @@
+ol li{
+    list-style-type: none;
+    margin-right:25px;
+    
+}
+ol{
+    display:flex;
+}
+a{
+    color:#ffffff;
+    text-decoration: none;
+}
+.box{
+    width: 1440px;
+    height: 50px;
+    padding: 20px;
+    border: 3px solid black;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #2d6a4f;
+    
+}
