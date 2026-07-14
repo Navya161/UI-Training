@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.container {
+  border: 2px solid #0d6efd !important;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.col-1,
+.col-2,
+.col-4,
+.col-6 {
+  text-align: center;
+  padding: 10px;
+  background-color: #f8f9fa;
+}
+
+.col-1:hover,
+.col-2:hover,
+.col-4:hover,
+.col-6:hover {
+  background-color: #e9ecef;
+}
